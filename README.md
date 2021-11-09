@@ -29,7 +29,7 @@
 
 ![oleandrosantos GitHub stats](https://github-readme-stats.vercel.app/api?username=oleandrosantos&count_private=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleandrosantos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleandrosantos&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 
