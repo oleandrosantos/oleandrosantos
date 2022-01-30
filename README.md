@@ -38,5 +38,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Leandro Santos](https://img.shields.io/badge/-oleandrosantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleandrosantos/)](https://www.linkedin.com/in/oleandrosantos/)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrooliveira574@gmail.com)](mailto:leandrooliveira574@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@oleandrosantos.me)](mailto:contato@oleandrosantos.me)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/oleandrosantos?label=follow&style=social)](https://github.com/oleandrosantos/)
