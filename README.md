@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Analise é desenvolvimento de sistemas na <a href="https://estacio.br"/>Estácio de Sá</a>.
-- 🌱 &nbsp; Atualmente estou aprendendo mais Backend com as Tecnologias PHP e Python.
+- 🌱 &nbsp; Atualmente estou aprendendo mais Backend com as Tecnologias PHP e C#.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
