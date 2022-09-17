@@ -5,12 +5,11 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Analise é desenvolvimento de sistemas na <a href="https://estacio.br"/>Estácio de Sá</a>.
-- 🌱 &nbsp; Atualmente estou aprendendo mais Backend com as Tecnologias PHP e C#.
+- 🌱 &nbsp; Atualmente estou estudando sobre o desenvolvimento de aplicativos web com as C#(.NET CORE) E VueJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-[<code><img height="32" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" alt="PHP"/>
-</code>](https://www.php.net/)
+
 [<code><img height="32" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python"/></code>](https://www.python.org/)
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>]()
@@ -19,10 +18,10 @@
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>]()
 [<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>]()
 [<code><img height="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></code>]()
-[<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"/></code>
-<br/>]()
-
-
+[<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"/></code>]()
+[<code><img height="32" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="CSharp"/></code>]()
+[<code><img height="32" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="dotnet"/></code>]()
+<br/>
 
 
 <h3> :chart_with_upwards_trend: &nbsp;Git Stats</h3>
