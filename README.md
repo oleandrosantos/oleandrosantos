@@ -4,7 +4,8 @@
 ### :man: &nbsp;Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Analise é desenvolvimento de sistemas na <a href="https://estacio.br"/>Estácio de Sá</a>.
+- 🎓 &nbsp; Formada Analise é desenvolvimento de sistemas na [Estácio de Sá](https://estacio.br.br).
+- 🎓 &nbsp; Cursando **Engenharia de software** na [PUC Minas](https://www.pucminas.br).
 - 🌱 &nbsp; Atualmente estou estudando sobre o desenvolvimento de aplicativos web com as C#(.NET CORE) E VueJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
