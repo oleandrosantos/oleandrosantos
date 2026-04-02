@@ -4,7 +4,7 @@
 ### :man: &nbsp;Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formada Analise é desenvolvimento de sistemas pela [Estácio de Sá](https://estacio.br.br).
+- 🎓 &nbsp; Formado Analise é desenvolvimento de sistemas pela [Estácio de Sá](https://estacio.br.br).
 - 🎓 &nbsp; Formado em **Engenharia de software** pela [PUC Minas](https://www.pucminas.br).
 - 🌱 &nbsp; Atualmente estou estudando sobre o desenvolvimento de aplicativos web com as C#(.NET CORE) E VueJS.
 
